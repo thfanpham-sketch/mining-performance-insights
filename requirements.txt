@@ -1,0 +1,10 @@
+
+pandas
+numpy
+scikit-learn
+plotly
+streamlit
+sqlalchemy
+python-dotenv
+folium
+matplotlib

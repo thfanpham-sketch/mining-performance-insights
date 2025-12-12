@@ -45,7 +45,7 @@ pip install -r requirements.txt
 ▶ How to Run
 1. Simulate Data
 Generate a dataset: python .\src\simulation\generate_data.py
-2. Compute KPIs
+2. Compute KPIs:
 python .\src\analytics\kpis.py
 3. Detect Anomalies:
 ppython .\src\analytics\anomaly.py
@@ -55,5 +55,6 @@ python .\src\analytics\predict.py
 
 📝 License
 MIT License.
+
 
 
